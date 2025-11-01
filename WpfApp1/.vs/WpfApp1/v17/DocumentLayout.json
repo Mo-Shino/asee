@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\studentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:studentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\teacherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:teacherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\teacherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:teacherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|c:\\users\\shinawy\\onedrive\\desktop\\task\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE559B47-28D1-4553-8E0B-9DE508DCC2FB}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Enrollment.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\Enrollment.cs",
+              "RelativeToolTip": "Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:38:30.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:37:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\Grade.cs",
+              "RelativeDocumentMoniker": "Grade.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\Grade.cs",
+              "RelativeToolTip": "Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:34:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\studentPage.xaml.cs",
+              "RelativeDocumentMoniker": "studentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\studentPage.xaml.cs",
+              "RelativeToolTip": "studentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:30:20.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\studentPage.xaml",
+              "RelativeDocumentMoniker": "studentPage.xaml",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\studentPage.xaml",
+              "RelativeToolTip": "studentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T04:22:41.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T14:11:10.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:11:07.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\TeacherPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeacherPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\TeacherPage.xaml.cs",
+              "RelativeToolTip": "TeacherPage.xaml.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAowK8AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:40:40.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\TeacherPage.xaml",
+              "RelativeDocumentMoniker": "TeacherPage.xaml",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\task\\WpfApp1\\TeacherPage.xaml",
+              "RelativeToolTip": "TeacherPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T18:07:36.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
